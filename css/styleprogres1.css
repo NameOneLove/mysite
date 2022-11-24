@@ -1,0 +1,37 @@
+body
+{
+    background-color: rebeccapurple;
+    background-image: url(https://sun9-12.userapi.com/impg/Y9xXBPT5uHqWxoAMtQxabI6UWtGVqXE6I20HCw/GD63zpwMwAU.jpg?size=1920x1080&quality=96&sign=5c58f53d1a97d1a4438478065c0acbf3&type=album);
+}
+h1{
+    color: rgb(249, 246, 246);
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    text-transform: uppercase;
+}
+body{
+    font-family: "Poppins", sans-serif;;
+}
+.aomine{
+    width: 300px;
+    border-radius: 100%;
+}
+
+
+.hobby{
+    text-decoration: underline;
+    color: aliceblue;
+    
+}
+h3{
+    color: aliceblue;
+}
+.mycontacts{
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
